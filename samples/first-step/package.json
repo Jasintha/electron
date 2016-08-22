@@ -1,0 +1,14 @@
+{
+  "name": "first-step",
+  "version": "1.0.0",
+  "description": "hello-world app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jasintha Dasanayake",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.3.3"
+  }
+}
